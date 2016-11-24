@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     has_permalink (0.2.0)
-      activerecord (~> 4.0, >= 2.0.0)
+      activerecord (>= 3.2.0)
 
 GEM
   remote: https://rubygems.org/
